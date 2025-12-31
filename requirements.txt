@@ -1,0 +1,16 @@
+discord.py
+python-dotenv
+aiohttp
+aiosqlite
+chromadb
+google-genai
+openai
+ffmpeg-python
+yt_dlp
+pymupdf4llm
+transformers
+torch
+accelerate
+librosa
+soundfile
+peft
